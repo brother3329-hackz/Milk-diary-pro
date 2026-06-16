@@ -1,0 +1,6 @@
+{
+  "name": "Milk Diary Pro",
+  "description": "Record daily milk deliveries and earnings, track analytics, maintain reports, and export/backup offline. Perfect for dairy farmers and suppliers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
